@@ -1,7 +1,7 @@
-# Zebrafish versus Mycobacterium tuberculosis GC Composition Percentage Comparison
+# casper Zebrafish versus Mycobacterium tuberculosis GC Composition Percentage Comparison
 
 ## Introduction
-In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between Zebrafish and Mycobacterium tuberculosis. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the GC composition percentages of these two species, I can gain a better understanding of their genomic differences and potential implications.
+In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the GC composition percentages of these two species, I can gain a better understanding identifying regions of genomic variation.
 
 ## Dataset Description
 For my analysis, I utilized genomic sequences obtained from public databases. The Zebrafish genomic sequences were retrieved from [Database of Zebrafish Genomic Resources](https://zebrafish.org/genome/databases/), while the Mycobacterium tuberculosis sequences were obtained from [TBDB - The Tuberculosis Database](https://www.tbdb.org/). I performed necessary preprocessing steps, including quality control and filtering, to ensure the reliability and consistency of the data.
