@@ -25,7 +25,7 @@ Figure 1.2 represents the results from the ANOVA statistical analysis
 To present my findings, I employed various data visualization tools. I utilized Python libraries such as Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the GC composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis. These visualizations help in understanding the distribution and variation of GC composition in the two species.
 
 ## Expected Results
-Based on previous studies, I anticipate observing differences in the GC composition percentages between Zebrafish and Mycobacterium tuberculosis. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically significant variations that reflect the distinct genomic characteristics of these two organisms.
+Based on previous studies, I anticipate observing differences in the GC composition percentages between Zebrafish and Mycobacterium tuberculosis. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
 
 ## Instructions to Reproduce
 To reproduce my analysis and visualizations, follow these steps:
@@ -36,9 +36,10 @@ To reproduce my analysis and visualizations, follow these steps:
 5. The results and visualizations will be generated in the specified output directory.
 
 ## Conclusion
-Through my research, I aim to provide insights into the GC composition differences between Zebrafish and Mycobacterium tuberculosis. By comparing the GC percentages, I can gain a better understanding of their genetic characteristics and potential evolutionary implications. These findings may contribute to the broader field of genomics and aid in future studies of these organisms.
+Through my research, I aim to provide insights into the GC composition differences between Zebrafish and Mycobacterium tuberculosis. By comparing the GC percentages, I can gain a better understanding of their genetic characteristics and potential implications. These findings may contribute to the broader field of genomics and aid in future studies of these organisms.
 
 ## Work Cited
+* Bian, C., Chen, W., Ruan, Z., Hu, Z., Huang, Y., Lv, Y., Xu, T., Li, J., Shi, Q., & Ge, W. (2020, March 30). Genome and Transcriptome Sequencing of casper and roy Zebrafish Mutants Provides Novel Genetic Clues for Iridophore Loss. PubMed Central (PMC). https://doi.org/10.3390/ijms21072385
 * Bian, C., Chen, W., Ruan, Z., Hu, Z., Huang, Y., Lv, Y., Xu, T., Li, J., Shi, Q., & Ge, W. (2020, March 30). Genome and Transcriptome Sequencing of casper and roy Zebrafish Mutants Provides Novel Genetic Clues for Iridophore Loss. PubMed Central (PMC). https://doi.org/10.3390/ijms21072385
 * 
 
