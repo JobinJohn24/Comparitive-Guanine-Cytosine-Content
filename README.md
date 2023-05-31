@@ -40,6 +40,6 @@ Through my research, I aim to provide insights into the GC composition differenc
 
 ## Work Cited
 * Bian, C., Chen, W., Ruan, Z., Hu, Z., Huang, Y., Lv, Y., Xu, T., Li, J., Shi, Q., & Ge, W. (2020, March 30). Genome and Transcriptome Sequencing of casper and roy Zebrafish Mutants Provides Novel Genetic Clues for Iridophore Loss. PubMed Central (PMC). https://doi.org/10.3390/ijms21072385
-* Bian, C., Chen, W., Ruan, Z., Hu, Z., Huang, Y., Lv, Y., Xu, T., Li, J., Shi, Q., & Ge, W. (2020, March 30). Genome and Transcriptome Sequencing of casper and roy Zebrafish Mutants Provides Novel Genetic Clues for Iridophore Loss. PubMed Central (PMC). https://doi.org/10.3390/ijms21072385
-* 
+* GRCz11 - danRer11 - Genome - Assembly - NCBI. (n.d.). GRCz11 - danRer11 - Genome - Assembly - NCBI. https://www.ncbi.nlm.nih.gov/assembly/GCF_000002035.6
+* ASM27773v2 - Genome - Assembly - NCBI. (n.d.). ASM27773v2 - Genome - Assembly - NCBI. https://www.ncbi.nlm.nih.gov/assembly/GCF_000277735.2
 
