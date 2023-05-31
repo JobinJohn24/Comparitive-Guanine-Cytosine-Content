@@ -30,5 +30,6 @@ To reproduce my analysis and visualizations, follow these steps:
 ## Conclusion
 Through my research, I aim to provide insights into the GC composition differences between Zebrafish and Mycobacterium tuberculosis. By comparing the GC percentages, I can gain a better understanding of their genetic characteristics and potential evolutionary implications. These findings may contribute to the broader field of genomics and aid in future studies of these organisms.
 
-## References
-Include a list of references and resources that were consulted during the research process. These may include scientific papers, books, online articles, or software documentation.
+## Work Cited
+
+
