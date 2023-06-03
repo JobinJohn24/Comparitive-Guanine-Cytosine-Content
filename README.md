@@ -1,14 +1,14 @@
 # Comparative Analysis of Guanine-Cytosine Composition Percentage in Species
 
 ## Introduction
-In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), and homosapiens (humans) and compare the statistical analysis. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the GC composition percentages of these five species researchers can gain a better understanding identifying regions of genomic variation.
+In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), and homosapiens (humans) and compare the statistical analysis. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the guanina-cytosine composition percentages of these five species researchers can gain a better understanding identifying regions of genomic variation.
 
 ## Dataset Description
 For my analysis, I utilized genomic sequences obtained from public databases for each of the species below:
-* Canis lupus familiaris: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
-* Japanese wild mouse: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?
+* Canis Lupus Familiaris(Dog): NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
+* Japanese Wild Mouse: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?
 * Mycobacterium Tuberculosis: TB Database- https://www.tbdb.org/
-* Danio rerio: ZFIN: https://zfin.org/
+* Danio rerio(Casper Zebrafish): ZFIN: https://zfin.org/
 * Homo sapiens: NCBI Genome: https://www.ncbi.nlm.nih.gov/genome/?term=homo%20sapiens
 
 ## Data Analysis and Visualization
@@ -26,7 +26,7 @@ To present my findings, I implemented the data visualization tool Matplotlib and
 *Figure 1.1 represents the distribution of guanine-cytosine content in it's genomic sequence.*
 
 
-To present my findings, I employed various data visualization tools. I utilized Python libraries such as Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the GC composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis. These visualizations help in understanding the distribution and variation of GC composition in the two species.
+To present the findings, data visualization tool utilized was Seaborn to create visually appealing bar chart to illustrate the differences in the guanine-cytosine composition percentages between the species. These visualizations help in understanding the distribution of guanine-cytosine content in the five species, and providing the standard deviation that'll help understand the variability in the percent values in the dataset. The calculations indicated that the standard deviation measured a variability of 12.531. This value shows significant variation in values in the dataset.
 
 ## Expected Results
 Based on previous studies, I anticipate observing differences in the GC composition percentages between Zebrafish and Mycobacterium tuberculosis. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
