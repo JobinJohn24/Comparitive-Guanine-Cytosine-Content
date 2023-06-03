@@ -1,10 +1,10 @@
 # Comparative Analysis of Guanine-Cytosine Composition Percentage in Species
 
 ## Introduction
-In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), and homosapiens (humans) and compare the statistical analysis. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the guanina-cytosine composition percentages of these five species researchers can gain a better understanding identifying regions of genomic variation.
+In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), & homosapiens (humans) and compare the statistical analysis using ANOVA analysis and t-test. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the guanine-cytosine composition percentages of the five species researchers can gain a better understanding identifying regions of genomic variation.
 
 ## Dataset Description
-For my analysis, I utilized genomic sequences obtained from public databases for each of the species below:
+For the analysis, genomic sequences were obtained from public databases for each of the species below:
 * Canis Lupus Familiaris(Dog): NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
 * Japanese Wild Mouse: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?
 * Mycobacterium Tuberculosis: TB Database- https://www.tbdb.org/
@@ -13,10 +13,10 @@ For my analysis, I utilized genomic sequences obtained from public databases for
 
 ## Data Analysis and Visualization
 ### Data Preparation
-To calculate the guanine-cytosine composition percentage, I employed computational methods to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis in the t-test and ANOVA analysis.
+To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis in the t-test and ANOVA analysis.
 
 ### Data Comparison
-To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis was conducted. If and when the discrepancy was ever too large for variability, a post-hoc test was involved to identify the pairwise differences between species.
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species.
 
 ### Data Visualization
 To present my findings, I implemented the data visualization tool Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
