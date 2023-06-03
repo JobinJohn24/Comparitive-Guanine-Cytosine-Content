@@ -13,19 +13,18 @@ For my analysis, I utilized genomic sequences obtained from public databases for
 
 ## Data Analysis and Visualization
 ### Data Preparation
-To calculate the GC composition percentage, I employed computational methods to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and calculate the . The resulting GC composition percentages were then used for further analysis and comparison.
+To calculate the guanine-cytosine composition percentage, I employed computational methods to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis in the t-test and ANOVA analysis.
 
 ### Data Comparison
-To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis was conducted. If and when the discrenpancy was every too large for variability, a post-hoc test was involved to identify the pairwise differences between species.
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis was conducted. If and when the discrepancy was ever too large for variability, a post-hoc test was involved to identify the pairwise differences between species.
 
 ### Data Visualization
-To present my findings, I employed various data visualization tools. I utilized Python libraries such as Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the GC composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis. These visualizations help in understanding the distribution and variation of GC composition in the two species.
+To present my findings, I implemented the data visualization tool Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
 
-[example.template.png]
-Figure 1.1 represents a pie chart given the results of the t-test for species' Casper Zebrafish and H37RV Mycobacterium Tuberculosis.
+![graph](https://github.com/JobinJohn24/ZVMBT/assets/63524391/6008c811-e05e-4938-9373-c95b56f99519)
 
-[example2.template.png]
-Figure 1.2 represents the results from the ANOVA statistical analysis
+*Figure 1.1 represents the distribution of guanine-cytosine content in it's genomic sequence.*
+
 
 To present my findings, I employed various data visualization tools. I utilized Python libraries such as Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the GC composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis. These visualizations help in understanding the distribution and variation of GC composition in the two species.
 
