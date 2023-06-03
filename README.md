@@ -1,17 +1,22 @@
-# Comparative Analysis of Guanine-Cytosine Composition Percentage in Casper Zebrafish and H37RV Mycobacterium Tuberculosis
+# Comparative Analysis of Guanine-Cytosine Composition Percentage in Species
 
 ## Introduction
-In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis and find a deficiency of either amino acids in the host or pathogen. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the GC composition percentages of these two species, I can gain a better understanding identifying regions of genomic variation. The host is the Casper Zebrafish and the pathogen is H37RZ Mycobacterium Tuberculosis.
+In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), and homosapiens (humans) and compare the statistical analysis. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the GC composition percentages of these five species researchers can gain a better understanding identifying regions of genomic variation.
 
 ## Dataset Description
-For my analysis, I utilized genomic sequences obtained from public databases. The Zebrafish genomic sequences were retrieved from [Database of Zebrafish Genomic Resources](https://zebrafish.org/genome/databases/), while the Mycobacterium tuberculosis sequences were obtained from [TBDB - The Tuberculosis Database](https://www.tbdb.org/). I performed necessary preprocessing steps, including quality control and filtering, to ensure the reliability and consistency of the data.
+For my analysis, I utilized genomic sequences obtained from public databases for each of the species below:
+* Canis lupus familiaris: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
+* Japanese wild mouse: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?
+* Mycobacterium Tuberculosis: TB Database- https://www.tbdb.org/
+* Danio rerio: ZFIN: https://zfin.org/
+* Homo sapiens: NCBI Genome: https://www.ncbi.nlm.nih.gov/genome/?term=homo%20sapiens
 
 ## Data Analysis and Visualization
 ### Data Preparation
-To calculate the GC composition percentage, I employed computational methods to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract the GC content from the DNA sequences. The resulting GC composition percentages were then used for further analysis and comparison.
+To calculate the GC composition percentage, I employed computational methods to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and calculate the . The resulting GC composition percentages were then used for further analysis and comparison.
 
 ### Data Comparison
-To compare the GC composition percentages between Zebrafish and Mycobacterium tuberculosis, I employed statistical analysis techniques. I conducted a t-test to determine if there are significant differences in the GC composition between the two species. Additionally, I performed an ANOVA analysis to explore potential variations across different strains or subspecies of Mycobacterium tuberculosis.
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis was conducted. If and when the discrenpancy was every too large for variability, a post-hoc test was involved to identify the pairwise differences between species.
 
 ### Data Visualization
 To present my findings, I employed various data visualization tools. I utilized Python libraries such as Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the GC composition percentages between casper Zebrafish and H37RV Mycobacterium tuberculosis. These visualizations help in understanding the distribution and variation of GC composition in the two species.
