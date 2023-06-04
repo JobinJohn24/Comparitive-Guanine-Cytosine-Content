@@ -16,14 +16,18 @@ For the analysis, genomic sequences were obtained from public databases for each
 To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis in the t-test and ANOVA analysis.
 
 ### Data Comparison
-To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species.
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species being studied and their corresponding guanine-cytosine percentage content:
+
+[table.md](https://github.com/JobinJohn24/SpeciesGC-/files/11645572/table.md)
+
+*Figure 1.1 shows the species with their corresponding guanine-cytosine percentage content.*
 
 ### Data Visualization
 To present my findings, I implemented the data visualization tool Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
 
-![graph](https://github.com/JobinJohn24/ZVMBT/assets/63524391/6008c811-e05e-4938-9373-c95b56f99519)
+![data](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/98488900-7332-4072-9fab-8adccda5aa6c)
 
-*Figure 1.1 represents the distribution of guanine-cytosine content in it's genomic sequence.*
+*Figure 1.2 represents the distribution of guanine-cytosine content in it's genomic sequence.*
 
 
 To present the findings, data visualization tool utilized was Seaborn to create visually appealing bar chart to illustrate the differences in the guanine-cytosine composition percentages between the species. These visualizations help in understanding the distribution of guanine-cytosine content in the five species, and providing the standard deviation that'll help understand the variability in the percent values in the dataset. The calculations indicated that the standard deviation measured a variability of 12.531. This value shows significant variation in values in the dataset.
