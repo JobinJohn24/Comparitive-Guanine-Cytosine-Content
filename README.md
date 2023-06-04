@@ -18,14 +18,14 @@ To calculate the guanine-cytosine composition percentage, computational methods 
 ### Data Comparison
 To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species being studied and their corresponding guanine-cytosine percentage content:
 
-[table.md](https://github.com/JobinJohn24/SpeciesGC-/files/11645572/table.md)
+![table](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/141f2aa7-7d2a-429a-a704-d13e44907445)
 
 *Figure 1.1 shows the species with their corresponding guanine-cytosine percentage content.*
 
 ### Data Visualization
 To present my findings, I implemented the data visualization tool Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
 
-![data](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/98488900-7332-4072-9fab-8adccda5aa6c)
+![data](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/dfcd7428-56dc-41db-99e4-05ca642052e3)
 
 *Figure 1.2 represents the distribution of guanine-cytosine content in it's genomic sequence.*
 
