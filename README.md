@@ -30,13 +30,13 @@ To present my findings, I implemented data visualization tool Seaborn to create 
 *Figure 1.2 represents the distribution of guanine-cytosine content in it's genomic sequence.*
 
 
-To present the findings, data visualization tool utilized was Seaborn to create visually appealing bar chart to illustrate the differences in the guanine-cytosine composition percentages between the species. These visualizations help in understanding the distribution of guanine-cytosine content in the five species, and providing the standard deviation that'll help understand the variability in the percent values in the dataset. The calculations indicated that the standard deviation measured a variability of 12.531. This value shows significant variation in values in the dataset. The table below represents the results from the ANOVA analysis test.
+To present the findings, data visualization tool utilized was Seaborn to create visually appealing bar chart to illustrate the differences in the guanine-cytosine composition percentages between the species. These visualizations help in understanding the distribution of guanine-cytosine content in the five species, and providing the standard deviation that'll help understand the variability in the percent values in the dataset. The calculations indicated that the standard deviation measured a variability of 12.531. The percentage values helps represent the variablity in the speciesc processes and charcteristics. The guanine-cytosine content in a species is reponisble for influencing stablity of DNA, gene expression, protein coding, and moelcular or cellular processes. 
 
 ![anova](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/643aac97-c21b-4be8-a41a-93322e8b23d2)
 
 *Figure 1.3 represents the variation in analytical results from the ANOVA test
 
-
+To present the findings, the data visualization tool of Tabulate was used to create a table to compare the result of the one-way anaylsis of variance (ANOVA) test. The variation was split into three sources; between groups, within groups, and total. The variation was split into three sources to investigate the relative contributions of between and within groups. The source of variation 'Between Groups' sum of squares was 627.882, representing dissimilarities amount the groups being compared, while the source of variation 'Within Groups' had a sum of squares 0.229591, representing variability unexplained after defining the differences between the groups. The residual variability could be due to random ractors, measurement errrors, or uncontrollable factors. The degrees of freedom represent the number of independent groups or data sets considered in the analysis test.
 
 
 ## Expected Results
