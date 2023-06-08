@@ -37,14 +37,16 @@ To present the findings, data visualization tool utilized was Seaborn to create 
 *Figure 1.3 represents the variation in analytical results from the ANOVA test
 
 
+
+
 ## Expected Results
 Based on previous studies, I anticipate observing differences in the GC composition percentages between Zebrafish and Mycobacterium tuberculosis. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
 
 ## Instructions to Reproduce
 To reproduce my analysis and visualizations, follow these steps:
-1. Install Python (version X.X.X) and the required libraries listed in the `requirements.txt` file.
-2. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
-3. Navigate to the project directory: `cd yourrepository`
+1. Install Python (version 3.0.0) and the required libraries listed in the `requirements.txt` file.
+2. Clone the repository: `git clone https://github.com/jobinjohn/SpeciesGC-.git`
+3. Navigate to the project directory: `cd SpeciesGC-`
 4. Run the analysis script: `python analysis.py`
 5. The results and visualizations will be generated in the specified output directory.
 
