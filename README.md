@@ -13,10 +13,10 @@ For the analysis, genomic sequences were obtained from public databases for each
 
 ## Data Analysis and Visualization
 ### Data Preparation
-To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis in the t-test and ANOVA analysis.
+To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis for a ANOVA analysis.
 
 ### Data Comparison
-To compare the GC composition percentages between five species, employment of statistical analysis techniques such as a t-test and ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species being studied and their corresponding guanine-cytosine percentage content:
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species, which if such a value for variability was ever too large. Below are the species being studied and their corresponding guanine-cytosine percentage content:
 
 ![table-2](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/232350f9-07a2-44a2-bed6-cfd7bd3d8bf7)
 
@@ -30,7 +30,12 @@ To present my findings, I implemented the data visualization tool Matplotlib and
 *Figure 1.2 represents the distribution of guanine-cytosine content in it's genomic sequence.*
 
 
-To present the findings, data visualization tool utilized was Seaborn to create visually appealing bar chart to illustrate the differences in the guanine-cytosine composition percentages between the species. These visualizations help in understanding the distribution of guanine-cytosine content in the five species, and providing the standard deviation that'll help understand the variability in the percent values in the dataset. The calculations indicated that the standard deviation measured a variability of 12.531. This value shows significant variation in values in the dataset.
+To present the findings, data visualization tool utilized was Seaborn to create visually appealing bar chart to illustrate the differences in the guanine-cytosine composition percentages between the species. These visualizations help in understanding the distribution of guanine-cytosine content in the five species, and providing the standard deviation that'll help understand the variability in the percent values in the dataset. The calculations indicated that the standard deviation measured a variability of 12.531. This value shows significant variation in values in the dataset. The table below represents the results from the ANOVA analysis test.
+
+![anova](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/643aac97-c21b-4be8-a41a-93322e8b23d2)
+
+*Figure 1.3 represents the variation in analytical results from the ANOVA test
+
 
 ## Expected Results
 Based on previous studies, I anticipate observing differences in the GC composition percentages between Zebrafish and Mycobacterium tuberculosis. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
