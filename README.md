@@ -1,7 +1,7 @@
 # Comparative Analysis of Guanine-Cytosine Composition Percentage in Species
 
 ## Introduction
-In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), & homosapiens (humans) and compare the statistical analysis using ANOVA analysis and t-test. The GC composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the guanine-cytosine composition percentages of the five species researchers can gain a better understanding identifying regions of genomic variation.
+In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), & homosapiens (humans) and compare the statistical analysis using a one-way analysis of variance (ANOVA) analysis. The guanine-cytosine composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the guanine-cytosine composition percentages of the five species researchers can gain a better understanding identifying regions of genomic variation.
 
 ## Dataset Description
 For the analysis, genomic sequences were obtained from public databases for each of the species below:
@@ -16,14 +16,14 @@ For the analysis, genomic sequences were obtained from public databases for each
 To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis for a ANOVA analysis.
 
 ### Data Comparison
-To compare the GC composition percentages between five species, employment of statistical analysis techniques such as ANOVA analysis were conducted. If and when the discrepancy was ever too large for variability, a post-hoc test should be involved to identify the pairwise differences between species, which if such a value for variability was ever too large. Below are the species being studied and their corresponding guanine-cytosine percentage content:
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as one-way ANOVA analysis tests were conducted. If and when the discrepancy was ever too significant for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species being studied and their corresponding guanine-cytosine percentage content computationally:
 
 ![table-2](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/232350f9-07a2-44a2-bed6-cfd7bd3d8bf7)
 
 *Figure 1.1 shows the species with their corresponding guanine-cytosine percentage content.*
 
 ### Data Visualization
-To present my findings, I implemented the data visualization tool Matplotlib and Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
+To present my findings, I implemented data visualization tool Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
 
 ![data](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/dfcd7428-56dc-41db-99e4-05ca642052e3)
 
@@ -40,7 +40,7 @@ To present the findings, data visualization tool utilized was Seaborn to create 
 
 
 ## Expected Results
-Based on previous studies, I anticipate observing differences in the GC composition percentages between Zebrafish and Mycobacterium tuberculosis. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
+Based on the studies, It was anticipated upon observing differences in the GC composition percentages that the percentage differed greatly when considering factors such as size, . Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
 
 ## Instructions to Reproduce
 To reproduce my analysis and visualizations, follow these steps:
