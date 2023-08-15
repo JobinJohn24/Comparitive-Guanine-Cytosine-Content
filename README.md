@@ -1,22 +1,22 @@
 # Comparative Analysis of Guanine-Cytosine Composition Percentage in Species
 
 ## Introduction
-In this research project, I aim to compare the guanine-cytosine (GC) composition percentages between five subjects; casper Zebrafish and H37RV Mycobacterium tuberculosis, canis lupus tamiliaris (dog), mus musculus (japanese wild mouse), & homosapiens (humans) and compare the statistical analysis using a one-way analysis of variance (ANOVA) analysis. The guanine-cytosine composition is an essential genomic characteristic that can provide insights into the genetic makeup and evolution of organisms. By comparing the guanine-cytosine composition percentages of the five species researchers can gain a better understanding identifying regions of genomic variation.
+In the given research project, the objective is to conduct a comparison of guanine-cytosine (GC) composition percentages among five subjects: danio rerio (casper Zebrafish), H37RV Mycobacterium tuberculosis, canis lupus familiaris (dog), mus musculus (house mouse), & homosapiens (humans.) The intention is to perform a  statistical analysis using a one-way analysis of variance (ANOVA) approach. The guanine-cytosine composition is an essential genomic trait that can provide insights into the genetic makeup and evolution of organisms. Through comparison assessments of guanine-cytosine composition percentages across five species, researchers can gain a better understanding identifying regions of genomic variation.
 
 ## Dataset Description
 For the analysis, genomic sequences were obtained from public databases for each of the species below:
-* Canis Lupus Familiaris(Dog): NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
-* Japanese Wild Mouse: NCBI Genome- https://www.ncbi.nlm.nih.gov/genome/?
-* Mycobacterium Tuberculosis: TB Database- https://www.tbdb.org/
-* Danio rerio(Casper Zebrafish): ZFIN: https://zfin.org/
-* Homo sapiens: NCBI Genome: https://www.ncbi.nlm.nih.gov/genome/?term=homo%20sapiens
+* Canis Lupus Familiaris(Dog): NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
+* Mus Musculus (House Mouse): NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/?
+* Mycobacterium Tuberculosis: TB Database - https://www.tbdb.org/
+* Danio Rerio(Casper Zebrafish): ZFIN - https://zfin.org/
+* Homo sapiens: NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/?term=homo%20sapiens
 
 ## Data Analysis and Visualization
 ### Data Preparation
 To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis for a ANOVA analysis.
 
 ### Data Comparison
-To compare the GC composition percentages between five species, employment of statistical analysis techniques such as one-way ANOVA analysis tests were conducted. If and when the discrepancy was ever too significant for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species being studied and their corresponding guanine-cytosine percentage content computationally:
+To compare the GC composition percentages between five species, employment of statistical analysis techniques such as one-way ANOVA analysis tests were conducted. If and when the discrepancy was ever too significant for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species represented by it's JPEG images along with their corresponding guanine-cytosine percentage content:
 
 ![table-2](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/232350f9-07a2-44a2-bed6-cfd7bd3d8bf7)
 
