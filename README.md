@@ -40,7 +40,7 @@ To present the findings, the data visualization tool of Tabulate was used to cre
 
 
 ## Expected Results
-Based on the studies, It was anticipated upon observing differences in the GC composition percentages that the percentage differed greatly when considering factors such as size, . Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
+Based on the studies, It was anticipated upon observing differences in the GC composition percentages that the percentage differed greatly when considering factors such as sequencing errors, assembly errors, duplication or deletion of genes, and it's biological variation. Zebrafish is a vertebrate organism with a relatively higher GC content compared to Mycobacterium tuberculosis, which is a bacterial pathogen known for its low GC content. I expect to see statistically variations reflecting the genomic characteristics of these two organisms.
 
 ## Instructions to Reproduce
 To reproduce my analysis and visualizations, follow these steps:
