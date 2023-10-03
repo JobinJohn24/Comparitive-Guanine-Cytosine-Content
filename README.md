@@ -1,4 +1,4 @@
-# Comparative Analysis of Guanine-Cytosine Composition Percentage in Species
+# Comparative Energy Cost Analysis of Guanine-Cytosine Content in Species
 
 ## Introduction
 In the given research project, the objective is to conduct a comparison of guanine-cytosine (GC) composition percentages among five subjects: danio rerio (casper Zebrafish), H37RV Mycobacterium tuberculosis, canis lupus familiaris (dog), mus musculus (house mouse), & homosapiens (humans.) The intention is to perform a  statistical analysis using a one-way analysis of variance (ANOVA) approach. The guanine-cytosine composition is an essential genomic trait that can provide insights into the genetic makeup and evolution of organisms. Through comparison assessments of guanine-cytosine composition percentages across five species, researchers can gain a better understanding identifying regions of genomic variation.
