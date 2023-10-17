@@ -5,11 +5,11 @@ In the given research project, the objective is to conduct a comparison of guani
 
 ## Dataset Description
 For the analysis, genomic sequences were obtained from public databases for each of the species below:
-* Canis Lupus Familiaris(Dog): NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/?term=canis%20lupus%20familiaris
-* Mus Musculus (House Mouse): NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/?
-* Mycobacterium Tuberculosis: TB Database - https://www.tbdb.org/
-* Danio Rerio(Casper Zebrafish): ZFIN - https://zfin.org/
-* Homo sapiens: NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/?term=homo%20sapiens
+* Canis Lupus Familiaris(Dog): NCBI Genome - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9615/
+* Mus Musculus (House Mouse): NCBI Genome - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/10090/
+* Mycobacterium Tuberculosis: TB Database - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1773/
+* Danio Rerio(Casper Zebrafish): ZFIN - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/7955/
+* Homo sapiens: NCBI Genome - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9606/
 
 ## Data Analysis and Visualization
 ### Data Preparation
