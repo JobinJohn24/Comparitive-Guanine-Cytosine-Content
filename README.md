@@ -1,19 +1,15 @@
 # Comparative Energy Cost Analysis of Guanine-Cytosine Content in Species
 
 ## Introduction
-In the given research project, the objective is to conduct a comparison of guanine-cytosine (GC) composition percentages among five subjects: danio rerio (casper Zebrafish), H37RV Mycobacterium tuberculosis, canis lupus familiaris (dog), mus musculus (house mouse), & homosapiens (humans.) The intention is to perform a  statistical analysis using a one-way analysis of variance (ANOVA) approach. The guanine-cytosine composition is an essential genomic trait that can provide insights into the genetic makeup and evolution of organisms. Through comparison assessments of guanine-cytosine composition percentages across five species, researchers can gain a better understanding identifying regions of genomic variation.
+In the given research project, the objective is to conduct a comparison of guanine-cytosine (GC) composition percentages among thirty-one species. The intention is to perform statistical analysis such as ANOVA tests, homogenity, posthoc test, t-tests and more to compare and understand the difference in variation based on the species DNA sequences. The guanine-cytosine composition is an essential genomic trait that can provide insights to the genetic makeup and evolution of organisms. Through comparison assessments of guanine-cytosine composition percentages across the species, researchers can gain a better understanding identifying regions of genomic variation.
 
-## Dataset Description
-For the analysis, genomic sequences were obtained from public databases for each of the species below:
-* Canis Lupus Familiaris(Dog): NCBI Genome - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9615/
-* Mus Musculus (House Mouse): NCBI Genome - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/10090/
-* Mycobacterium Tuberculosis: TB Database - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1773/
-* Danio Rerio(Casper Zebrafish): ZFIN - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/7955/
-* Homo sapiens: NCBI Genome - https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9606/
+## Dataset Overview
+
+
 
 ## Data Analysis and Visualization
 ### Data Preparation
-To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools, Biopython and custom scripts to extract genomic sequence and understand the differences in the statistical analysis of the species. The resulting guanine-cytosine composition percentages were used for further analysis for a ANOVA analysis.
+To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools such as Pandas, Biopython Statsmodels, SciPy, Matplotlib, and Pandas to extract genomic sequence and create visuals to gain a better understanding on the differences in the statistical analysis among species. The resulting guanine-cytosine composition percentages were used for further analysis for a ANOVA analysis.
 
 ### Data Comparison
 To compare the GC composition percentages between five species, employment of statistical analysis techniques such as one-way ANOVA analysis tests were conducted. If and when the discrepancy was ever too significant for variability, a post-hoc test should be involved to identify the pairwise differences between species. Below are the species represented by it's JPEG images along with their corresponding guanine-cytosine percentage content:
@@ -51,7 +47,7 @@ To reproduce my analysis and visualizations, follow these steps:
 5. The results and visualizations will be generated in the specified output directory.
 
 ## Conclusion
-Through my research, I aim to provide insights into the GC composition differences between Zebrafish and Mycobacterium tuberculosis. By comparing the GC percentages, I can gain a better understanding of their genetic characteristics and potential implications. These findings may contribute to the broader field of genomics and aid in future studies of these organisms.
+Through my research, I aim to provide insights into the guanine-cytosine composition differences between species. Given the analysis of guanine-cytosine composition, . These findings may contribute to the broader field of genomics and aid in future studies of these organisms.
 
 ## Work Cited
 * Bian, C., Chen, W., Ruan, Z., Hu, Z., Huang, Y., Lv, Y., Xu, T., Li, J., Shi, Q., & Ge, W. (2020, March 30). Genome and Transcriptome Sequencing of casper and roy Zebrafish Mutants Provides Novel Genetic Clues for Iridophore Loss. PubMed Central (PMC). https://doi.org/10.3390/ijms21072385
