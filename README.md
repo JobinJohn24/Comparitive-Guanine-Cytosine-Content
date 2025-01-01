@@ -47,7 +47,7 @@ To reproduce my analysis and visualizations, follow these steps:
 5. The results and visualizations will be generated in the specified output directory.
 
 ## Conclusion
-Through my research, I aim to provide insights into the guanine-cytosine composition differences between species. Given the analysis of guanine-cytosine composition, . These findings may contribute to the broader field of genomics and aid in future studies of these organisms.
+The results showed patterns within the amount of guanine-cytosine composition among species exhibiting higher content compairitive to bacterial species, such as Mycobacterium Tuberculosis. The ANOVA analysis confirmed statistically significant differences between groups, and post-hac tests with GC discrepancies. These variations highlighted the biological diversity in genomic structure and function, which emphasized the role of GC content that influenced DNA stabilization, gene expression, and cellular processes. This research underlines the importance of computational and statistical approaches in understanding complex genomic traits. 
 
 ## Work Cited
 * Bian, C., Chen, W., Ruan, Z., Hu, Z., Huang, Y., Lv, Y., Xu, T., Li, J., Shi, Q., & Ge, W. (2020, March 30). Genome and Transcriptome Sequencing of casper and roy Zebrafish Mutants Provides Novel Genetic Clues for Iridophore Loss. PubMed Central (PMC). https://doi.org/10.3390/ijms21072385
