@@ -3,10 +3,6 @@
 ## Introduction
 In the given research project, the objective is to conduct a comparison of guanine-cytosine (GC) composition percentages among five species. The intention is to perform statistical analysis such as ANOVA tests, homogenity, posthoc test, t-tests and more to compare and understand the difference in variation based on the species DNA sequences. The guanine-cytosine composition is an essential genomic trait that can provide insights to the genetic makeup and evolution of organisms. Through comparison assessments of guanine-cytosine composition percentages across the species, researchers can gain a better understanding identifying regions of genomic variation.
 
-## Dataset Overview
-
-
-
 ## Data Analysis and Visualization
 ### Data Preparation
 To calculate the guanine-cytosine composition percentage, computational methods were used to analyze the genomic sequences. I used utliization tools such as Pandas, Biopython Statsmodels, SciPy, and Matplotlib to extract genomic sequence and create visuals to gain a better understanding on the differences in the statistical analysis among species. The resulting guanine-cytosine composition percentages were used for further analysis for a ANOVA analysis.
