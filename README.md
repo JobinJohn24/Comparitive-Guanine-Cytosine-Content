@@ -1,4 +1,4 @@
-# Comparative GC Content Analysis across Species
+# 🧫🔬 Comparative GC Content Analysis across Species 🧫🔬
 
 ## 📖 Introduction
 In the given research project, the objective is to conduct a comparison of guanine-cytosine (GC) composition percentages among five species. The intention is to perform statistical analysis such as ANOVA tests, homogenity, posthoc test, t-tests and more to compare and understand the difference in variation based on the species DNA sequences. The guanine-cytosine composition is an essential genomic trait that can provide insights to the genetic makeup and evolution of organisms. Through comparison assessments of guanine-cytosine composition percentages across the species, researchers can gain a better understanding identifying regions of genomic variation.
@@ -14,7 +14,7 @@ To compare the GC composition percentages between five species, employment of st
 
 *Figure 1.1 shows the species with their corresponding guanine-cytosine percentage content.*
 
-### 📈 Data Visualization
+### Data Visualization
 To present my findings, I implemented data visualization tool Seaborn to create visually appealing plots. I generated bar charts, box plots, and scatter plots to illustrate the differences in the guanine-cytosine composition percentages between five species. These visualizations help in understanding the distribution and variation of guanine-cytosine composition the given species.
 
 ![data](https://github.com/JobinJohn24/SpeciesGC-/assets/63524391/dfcd7428-56dc-41db-99e4-05ca642052e3)
